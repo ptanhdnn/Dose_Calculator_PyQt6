@@ -1,0 +1,14 @@
+How to set up this application!!!
+_______________________________________
+
+1. Install the package listed in the requirements.txt file, you can use the following command:
+pip install -r requirements.txt
+
+2. Create a new virtual environment
+python -m venv [name-venv]
+
+3. Activate the virtual environment
+.\[name-venv]\Scripts\Activate.ps1
+
+4. Run main file
+python .\DoseCalculator.py
